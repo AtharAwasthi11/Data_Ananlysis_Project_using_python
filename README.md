@@ -1,4 +1,5 @@
 # Data_Ananlysis_Project_using_python
+An Advanced Python Data Analysis portfolio in Jupyter. Features Time Series Forecasting (Employment), Collaborative Filtering (MovieLens), and Market Basket Analysis (Apriori), complemented by NLP Sentiment Analysis. Demonstrates expertise in advanced predictive modeling and deriving actionable, data-driven insights.
 
 .Exploratory Data Analysis - Bollywood Movies & Cereal Ratings: In these notebooks, we perform Exploratory Data Analysis on two datasets by using libraries like NumPy, Pandas, SciPy, Matplotlib & Seaborn.
 
